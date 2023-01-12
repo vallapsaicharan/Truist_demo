@@ -1,0 +1,24 @@
+:: Spring Boot ::                (v3.0.1)
+
+ 
+
+2023-01-12T15:36:32.784+05:30  INFO 30468 --- [           main] com.SyncLogsS3.test.TestApplication      : Starting TestApplication using Java 17.0.1 with PID 30468 (C:\Users\ashirana\Downloads\test\target\classes started by ashirana in C:\Users\ashirana\Downloads\test)
+2023-01-12T15:36:32.787+05:30  INFO 30468 --- [           main] com.SyncLogsS3.test.TestApplication      : No active profile set, falling back to 1 default profile: "default"
+2023-01-12T15:36:33.279+05:30  INFO 30468 --- [           main] com.SyncLogsS3.test.TestApplication      : Started TestApplication in 0.821 seconds (process running for 1.194)
+Hello
+:: Spring Boot ::                (v3.0.1)
+
+ 
+
+2023-01-12T15:36:32.784+05:30  INFO 30468 --- [           main] com.SyncLogsS3.test.TestApplication      : Starting TestApplication using Java 17.0.1 with PID 30468 (C:\Users\ashirana\Downloads\test\target\classes started by ashirana in C:\Users\ashirana\Downloads\test)
+2023-01-12T15:36:32.787+05:30  INFO 30468 --- [           main] com.SyncLogsS3.test.TestApplication      : No active profile set, falling back to 1 default profile: "default"
+2023-01-12T15:36:33.279+05:30  INFO 30468 --- [           main] com.SyncLogsS3.test.TestApplication      : Started TestApplication in 0.821 seconds (process running for 1.194)
+Hello
+:: Spring Boot ::                (v3.0.1)
+
+ 
+
+2023-01-12T15:36:32.784+05:30  INFO 30468 --- [           main] com.SyncLogsS3.test.TestApplication      : Starting TestApplication using Java 17.0.1 with PID 30468 (C:\Users\ashirana\Downloads\test\target\classes started by ashirana in C:\Users\ashirana\Downloads\test)
+2023-01-12T15:36:32.787+05:30  INFO 30468 --- [           main] com.SyncLogsS3.test.TestApplication      : No active profile set, falling back to 1 default profile: "default"
+2023-01-12T15:36:33.279+05:30  INFO 30468 --- [           main] com.SyncLogsS3.test.TestApplication      : Started TestApplication in 0.821 seconds (process running for 1.194)
+Hello
